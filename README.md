@@ -1,3 +1,5 @@
+# NOTE: This repository is read-only, and kept for historical purposes. Development is currently active on https://github.com/MeasureAuthoringTool/health-data-standards
+
 This is a project to generate and consume HITSP C32, QRDA Category I, and QRDA Category III.
 
 In addition this project also contains libraries for parsing HQMF documents and for dealing with NLM valuesets.
